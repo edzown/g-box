@@ -10,5 +10,5 @@ This is a simple React app that generates G-box results. Useful for raffles.
 
 ## Notes
 
-This build is completely free for everyone to use. GPL licensed. 
+This build is completely free for everyone to use. GPL licensed. Source code coming soon.
 https://www.gnu.org/licenses/gpl-3.0.en.html
